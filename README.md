@@ -12,6 +12,8 @@ A list of apps useful scripts and apps used for farming on the [Chia Blockchain]
 
 [Ploto](https://github.com/tydeno/Ploto) - A Windows PowerShell based Chia Plotting Manager. Consists of a PowerShell Module that allows to spawn, manage and move plots.
 
+[Harry Plotter](https://github.com/abueide/harry-plotter) - Harry Plotter is an easy to use magical Chia plot manager for muggles!
+
 ## Monitoring 📊
 
 ## Faucets 💰
