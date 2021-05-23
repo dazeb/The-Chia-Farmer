@@ -1,6 +1,6 @@
 # Chia Farmer Apps
 
-A list of apps useful scripts and apps used for farming on the ![Chia Blockchain](https://github.com/Chia-Network/chia-blockchain).
+A list of apps useful scripts and apps used for farming on the [Chia Blockchain](https://github.com/Chia-Network/chia-blockchain).
 
 ## Plotting Managers
 
