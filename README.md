@@ -1,2 +1,8 @@
-# AwesomeChiaApps
-A list of useful scripts and applications used for the Chia Blockchain.
+# Chia Farmers Market
+
+A list of apps useful scriptsused for farming the Chia Blockchain.
+
+## Plotting Apps
+
+
+## Monitoring
