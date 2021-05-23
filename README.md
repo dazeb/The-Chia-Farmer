@@ -10,6 +10,8 @@ A list of apps useful scripts and apps used for farming on the [Chia Blockchain]
 
 [PlotNG](https://github.com/maded2/plotng) - Multi-Platform Plotter, Offers a mix of GUI and CLI [Linux/Windows/Mac]
 
+[Ploto](https://github.com/tydeno/Ploto) - A Windows PowerShell based Chia Plotting Manager. Consists of a PowerShell Module that allows to spawn, manage and move plots.
+
 ## Monitoring 📊
 
 ## Faucets 💰
