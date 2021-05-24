@@ -26,11 +26,11 @@ A list of apps useful scripts and apps used for farming on the [Chia Blockchain]
 
 [Official Chia Faucet](https://faucet.chia.net/) ✔ - 100 Mojo FREE. Set up by official Chia devs to allow people to join pools.
 
-## Web Apps 
+## Web Apps 🖥
 
 [Chia Wallet Balance](https://chiawalletbalance.web.app/) - Check status of a Chia Wallet address.
 
-## Links
+## Links 🔗
 
 [ChiaLinks](https://chialinks.com/) - An amazing resource full of Chia resources.
 
