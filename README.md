@@ -2,6 +2,14 @@
 
 A list of apps useful scripts and apps used for farming on the [Chia Blockchain](https://github.com/Chia-Network/chia-blockchain).
 
+## Contents:
+* [Plotting Managers](https://github.com/DazEB2/Chia-Farmer-Apps#plotting-managers-)
+* [All in One Stacks](https://github.com/DazEB2/Chia-Farmer-Apps#aio-stacks-)
+* [Monitoring](https://github.com/DazEB2/Chia-Farmer-Apps#monitoring-)
+* [Faucets](https://github.com/DazEB2/Chia-Farmer-Apps#faucets-)
+* [Web Apps](https://github.com/DazEB2/Chia-Farmer-Apps#web-apps-)
+* [Links](https://github.com/DazEB2/Chia-Farmer-Apps#links-)
+
 ## Plotting Managers 👨‍🌾
 
 [SWAR Pot Manager](https://github.com/swar/Swar-Chia-Plot-Manager) - Manages plots and plotting using CLI. Allows features like staggered start. [Windows/Linux/Mac]
