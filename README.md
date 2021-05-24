@@ -14,7 +14,13 @@ A list of apps useful scripts and apps used for farming on the [Chia Blockchain]
 
 [Harry Plotter](https://github.com/abueide/harry-plotter) - Harry Plotter is an easy to use magical Chia plot manager for muggles!
 
+## AIO Stacks 🗳
+
+[Machinaris](https://github.com/guydavis/machinaris) - An easy-to-use WebUI for Chia plotting and farming. Includes Chia, Plotman, and Chiadog in a single Docker image.
+
 ## Monitoring 📊
+
+[Chiamon](https://github.com/retzkek/chiamon) - Chia Monitoring Docker Stack. Runs Grafana, Prometheus, mtail, Loki to display beautiful live statistics.
 
 ## Faucets 💰
 
