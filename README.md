@@ -24,4 +24,6 @@ A list of apps useful scripts and apps used for farming on the [Chia Blockchain]
 
 ## Faucets 💰
 
-Official Chia Faucet ✔ - https://faucet.chia.net/
+[Official Chia Faucet](https://faucet.chia.net/) ✔ - 100 Mojo FREE. Set up by official Chia devs to allow people to join pools.
+
+
