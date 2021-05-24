@@ -30,6 +30,8 @@ A list of apps useful scripts and apps used for farming on the [Chia Blockchain]
 
 [Chiamon](https://github.com/retzkek/chiamon) - Chia Monitoring Docker Stack. Runs Grafana, Prometheus, mtail, Loki to display beautiful live statistics.
 
+[ChiaPlotStatus](https://github.com/grayfallstown/Chia-Plot-Status) - An excellent app for beginners. Gives detailed stats on your plots pulled from log files.
+
 ## Faucets 💰
 
 [Official Chia Faucet](https://faucet.chia.net/) ✔ - 100 Mojo FREE. Set up by official Chia devs to allow people to join pools.
