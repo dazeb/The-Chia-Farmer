@@ -42,7 +42,8 @@ A list of apps useful scripts and apps used for farming on the [Chia Blockchain]
 
 [ChiaLinks](https://chialinks.com/) - An amazing resource full of Chia resources.
 
-DISCLAIMER: All links have been checked but please use due diligence. Some apps have been left out because they are closed source.
+## DISCLAIMER: 
+All links have been checked but please use due diligence. Some apps have been left out because they are closed source.
 
 
 
