@@ -32,6 +32,8 @@ A list of apps useful scripts and apps used for farming on the [Chia Blockchain]
 
 [ChiaPlotStatus](https://github.com/grayfallstown/Chia-Plot-Status) - An excellent app for beginners. Gives detailed stats on your plots pulled from log files.
 
+[Chia Telegram Bot](https://interchargers.com/chia-telegram-bot/) - Telegram notifications from your Chia node.
+
 ## Faucets 💰
 
 [Official Chia Faucet](https://faucet.chia.net/) ✔ - 100 Mojo FREE. Set up by official Chia devs to allow people to join pools.
