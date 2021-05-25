@@ -38,6 +38,8 @@ A list of apps useful scripts and apps used for farming on the [Chia Blockchain]
 
 [Official Chia Faucet](https://faucet.chia.net/) ✔ - 100 Mojo FREE. Set up by official Chia devs to allow people to join pools.
 
+[TogaTech Chia Faucet](https://chia.togatech.org/) - Great faucet that sends you 1,000,000 mojo (0.000001 XCH) totally free!
+
 ## Web Apps 🖥
 
 [Chia Wallet Balance](https://chiawalletbalance.web.app/) - Check status of a Chia Wallet address.
