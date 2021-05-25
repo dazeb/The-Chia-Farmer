@@ -26,7 +26,7 @@ A list of apps useful scripts and apps used for farming on the [Chia Blockchain]
 
 [Machinaris](https://github.com/guydavis/machinaris) - An easy-to-use WebUI for Chia plotting and farming. Includes Chia, Plotman, and Chiadog in a single Docker image.
 
-## Monitoring 📊
+## Dashboards & Monitoring 📊
 
 [Chiamon](https://github.com/retzkek/chiamon) - Chia Monitoring Docker Stack. Runs Grafana, Prometheus, mtail, Loki to display beautiful live statistics.
 
