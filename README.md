@@ -34,6 +34,8 @@ A list of apps useful scripts and apps used for farming on the [Chia Blockchain]
 
 [Chia Telegram Bot](https://interchargers.com/chia-telegram-bot/) - Telegram notifications from your Chia node.
 
+[Chiadog](https://github.com/martomi/chiadog) - A watch dog providing a peace in mind that your Chia farm is running smoothly 24/7.
+
 ## Faucets 💰
 
 [Official Chia Faucet](https://faucet.chia.net/) ✔ - 100 Mojo FREE. Set up by official Chia devs to allow people to join pools.
