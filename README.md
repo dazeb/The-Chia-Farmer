@@ -18,7 +18,7 @@ A list of apps useful scripts and apps used for farming on the [Chia Blockchain]
 
 [PlotNG](https://github.com/maded2/plotng) - Multi-Platform Plotter, Offers a mix of GUI and CLI **[Linux/Windows/Mac]**
 
-[Ploto](https://github.com/tydeno/Ploto) - A Windows PowerShell based Chia Plotting Manager. Consists of a PowerShell Module that allows to spawn, manage and move plots. **[Windows]**
+[Ploto](https://github.com/tydeno/Ploto) - PowerShell Module that allows to spawn, manage and move plots. **[Windows]**
 
 [Harry Plotter](https://github.com/abueide/harry-plotter) - Harry Plotter is an easy to use magical Chia plot manager for muggles!**[Linux/Windows/Mac]**
 
@@ -29,7 +29,7 @@ A list of apps useful scripts and apps used for farming on the [Chia Blockchain]
 
 ## AIO Stacks 🗳
 
-[Machinaris](https://github.com/guydavis/machinaris) - An easy-to-use WebUI for Chia plotting and farming. Includes Chia, Plotman, and Chiadog in a single Docker image. **[Windows/Linux/Mac]**
+[Machinaris](https://github.com/guydavis/machinaris) - WebUI for Chia Plotting. Includes Chia, Plotman, and Chiadog in a single Docker image. **[Windows/Linux/Mac]**
 
 ## Dashboards & Monitoring 📊
 
